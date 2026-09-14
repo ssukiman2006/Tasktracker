@@ -1,4 +1,3 @@
-
 from datetime import date
 
 from tasktracker.models import Priority, Status, Task
